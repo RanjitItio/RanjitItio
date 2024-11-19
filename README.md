@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ranjit Kumar Sahoo and I'm a passionate Coder, from Odisha</h2>
+<h2 align="left">Hi 👋! My name is Ranjit Kumar Sahoo a passionate Coder</h2>
 
 ###
 
